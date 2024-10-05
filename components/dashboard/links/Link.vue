@@ -48,7 +48,7 @@ function updateLink(link, type) {
           <AvatarFallback>
             <img
               src="/sink.png"
-              alt="Sink"
+              alt="WFRK"
             >
           </AvatarFallback>
         </Avatar>
